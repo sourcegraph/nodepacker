@@ -5,7 +5,7 @@ WIP
 Small utility packs pods onto nodes, computes optimal machine type and number of nodes necessary to run a k8s
 Sourcegraph installation.
 
-Provides a REPL for a human operator to assist in computation.
+Provides a REPL for a human operator to assist in packing decisions.
 
 ```text
 ~/work/src/github.com/sourcegraph/nodepacker/cmd/nodepacker(main*) » go run .                                                                                                                                  uwe@maxx
